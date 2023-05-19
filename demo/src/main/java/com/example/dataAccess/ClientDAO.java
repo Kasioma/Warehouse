@@ -18,7 +18,7 @@ public class ClientDAO extends AbstractDAO<Client> {
 
     
     /** 
-     * @return Class<Client>
+     * @return Client Class
      */
     @Override
     protected Class<Client> getEntityType() {
@@ -108,7 +108,7 @@ public class ClientDAO extends AbstractDAO<Client> {
 
     
     /** 
-     * @return List<Client>
+     * @return List of clients
      * @throws SQLException
      */
     public List<Client> getAllClients() throws SQLException {

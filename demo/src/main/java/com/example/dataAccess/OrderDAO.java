@@ -18,7 +18,7 @@ public class OrderDAO extends AbstractDAO<Order> {
 
     
     /** 
-     * @return Class<Order>
+     * @return Order class
      */
     @Override
     protected Class<Order> getEntityType() {
@@ -105,7 +105,7 @@ public class OrderDAO extends AbstractDAO<Order> {
 
     
     /** 
-     * @return List<Order>
+     * @return List of orders
      * @throws SQLException
      */
     public List<Order> getAllClients() throws SQLException {

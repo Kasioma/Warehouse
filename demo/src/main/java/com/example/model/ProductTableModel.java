@@ -9,7 +9,8 @@ public class ProductTableModel extends AbstractEntityTableModel<Product> {
 
     
     /** 
-     * @return Class<?>
+     * @return Class product
+     * 
      */
     @Override
     protected Class<?> getEntityClass() {

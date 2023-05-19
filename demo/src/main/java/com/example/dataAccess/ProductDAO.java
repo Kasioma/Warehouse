@@ -18,7 +18,7 @@ public class ProductDAO extends AbstractDAO<Product> {
 
     
     /** 
-     * @return Class<Product>
+     * @return Class Product
      */
     @Override
     protected Class<Product> getEntityType() {
@@ -102,7 +102,7 @@ public class ProductDAO extends AbstractDAO<Product> {
 
     
     /** 
-     * @return List<Product>
+     * @return List of products
      * @throws SQLException
      */
     public List<Product> getAllClients() throws SQLException {

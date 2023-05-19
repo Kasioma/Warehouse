@@ -9,7 +9,7 @@ public class ClientTableModel extends AbstractEntityTableModel<Client> {
 
     
     /** 
-     * @return Class<?>
+     * @return Class object
      */
     @Override
     protected Class<?> getEntityClass() {

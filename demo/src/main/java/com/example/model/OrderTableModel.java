@@ -9,7 +9,7 @@ public class OrderTableModel extends AbstractEntityTableModel<Order> {
 
     
     /** 
-     * @return Class<?>
+     * @return Class order
      */
     @Override
     protected Class<?> getEntityClass() {

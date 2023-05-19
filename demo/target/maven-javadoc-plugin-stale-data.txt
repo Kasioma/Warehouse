@@ -1,0 +1,55 @@
+@options
+@packages
+-classpath
+'C:/Users/maria/.m2/repository/org/postgresql/postgresql/42.3.0/postgresql-42.3.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/maria/OneDrive/Desktop/pt/warehouse/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/maria/OneDrive/Desktop/pt/warehouse/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example
+com.example.bussinessLogic
+com.example.bussinessLogic.validators
+com.example.connection
+com.example.dataAccess
+com.example.model
+com.example.presentation
+C:\Users\maria\.m2\repository\org\postgresql\postgresql\42.3.0\postgresql-42.3.0.jar = 1684001488504
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\src\main\java = 1683998460578
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\allclasses-index.html = 1684497853712
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\allpackages-index.html = 1684497853715
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\constant-values.html = 1684497853530
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\element-list = 1684497853463
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\help-doc.html = 1684497853758
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\index-all.html = 1684497853750
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\index.html = 1684497853690
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\javadoc.bat = 1684497837054
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\jquery-ui.overrides.css = 1684497853798
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\member-search-index.js = 1684497853722
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\module-search-index.js = 1684497853717
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\overview-summary.html = 1684497853753
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\overview-tree.html = 1684497853686
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\package-search-index.js = 1684497853719
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\script.js = 1684497853762
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\search.js = 1684497853765
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\serialized-form.html = 1684497853558
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\stylesheet.css = 1684497853761
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\tag-search-index.js = 1684497853723
+C:\Users\maria\OneDrive\Desktop\pt\warehouse\demo\target\site\apidocs\type-search-index.js = 1684497853720
